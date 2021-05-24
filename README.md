@@ -24,7 +24,7 @@
     * [Мост](https://github.com/gmarv1n/design-patterns-php/tree/master/Structural/Bridge)
     * [Декоратор](https://github.com/gmarv1n/design-patterns-php/tree/master/Structural/Decorator)
     * [Легковес](https://github.com/gmarv1n/design-patterns-php/tree/master/Structural/Flyweight)
-* [Поведенческие паттерны](https://github.com/gmarv1n/design-patterns-php/tree/master/Beahvioural)
+* [Поведенческие паттерны](https://github.com/gmarv1n/design-patterns-php/tree/master/Behavioural)
     * [Цепочка обязанностей](https://github.com/gmarv1n/design-patterns-php/tree/master/Behavioural/ChainOfResponsibillity)
     * [Команда](https://github.com/gmarv1n/design-patterns-php/tree/master/Behavioural/Command)
     * [Итератор](https://github.com/gmarv1n/design-patterns-php/tree/master/Behavioural/Iterator)
