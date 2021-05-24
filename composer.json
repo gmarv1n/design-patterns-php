@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "classmap": [
+            "Behavioural", 
+            "Creational", 
+            "Structural"
+        ]
+    }
+}
